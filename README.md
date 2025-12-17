@@ -16,6 +16,7 @@ The objective of this project is to showcase data exploration, trend analysis, a
 ---
 
 ## Project Structure
+```
 │
 ├── datasets/
 │ └── covid_19_clean_complete
@@ -24,7 +25,7 @@ The objective of this project is to showcase data exploration, trend analysis, a
 │ └── Covid19_Analysis_for _US_EDA _Mini-Project
 │
 └── README.md
-
+```
 ----
 
 ## Analysis Focus Areas
