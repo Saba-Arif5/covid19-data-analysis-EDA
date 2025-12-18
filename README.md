@@ -10,7 +10,7 @@ The objective of this project is to showcase data exploration, trend analysis, a
 
 ## Dataset
 - **Source:** Publicly available COVID-19 datasets
-- **Description:** Time-series data containing confirmed cases, deaths, and recoveries across regions.
+- **Description:** Time-series data containing confirmed cases, deaths, and across US.
 - **Notes:** Data includes temporal trends and requires careful preprocessing for accurate analysis.
 
 ---
@@ -31,18 +31,16 @@ The objective of this project is to showcase data exploration, trend analysis, a
 ## Analysis Focus Areas
 
 ### Exploratory Data Analysis
-- Overview of global and regional case trends
-- Examination of confirmed cases and fatalities
-- Identification of high-impact periods
+- Overview of regional case trends
+- Examination of confirmed cases and fatalities for the US
+
 
 ### Time Series Analysis
 - Trend analysis over time
 - Growth patterns and peaks
-- Comparative analysis across regions
 
 ### Insight & Storytelling
 - Translating trends into meaningful observations
-- Highlighting key phases of the pandemic
 - Supporting insights with visual evidence
 
 ---
@@ -58,9 +56,9 @@ The objective of this project is to showcase data exploration, trend analysis, a
 ---
 
 ## Key Insights
-- COVID-19 trends vary significantly across regions
-- Clear waves and peaks are visible over time
-- Time-series analysis is essential for understanding real-world events
+- Confirmed cases show a strong upward trend over time, indicating rapid spread.
+- Deaths also increase over time but at a slower rate compared to confirmed cases.
+- The time-series nature of the data highlights how outbreaks evolve and why trend analysis is critical in public health data.
 
 ---
 
